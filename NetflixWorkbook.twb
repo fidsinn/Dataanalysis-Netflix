@@ -26,10 +26,10 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='netflix_titles' name='textscan.1w5jq6l1sz7dqf1edu5px1co0c0v'>
-            <connection class='textscan' directory='/Users/finn/Desktop/pyStart/netflixDS' filename='netflix_titles.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/finn/Desktop/Dataanalysis-Netflix' filename='netflix_titles.csv' password='' server='' />
           </named-connection>
           <named-connection caption='enef_final' name='textscan.10jhpol0b5wgux1ftrzd61km9pec'>
-            <connection class='textscan' directory='/Users/finn/Desktop/pyStart/netflixDS' filename='netflix_titles.csv' password='' server='' />
+            <connection class='textscan' directory='/Users/finn/Desktop/Dataanalysis-Netflix' filename='netflix_titles.csv' password='' server='' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.10jhpol0b5wgux1ftrzd61km9pec' name='enef_final.csv' table='[enef_final#csv]' type='table'>
@@ -2729,8 +2729,8 @@
           </layout-options>
           <size maxheight='800' minheight='800' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='36' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='35' param='vert' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='38' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='37' param='vert' w='84000' x='8000' y='8000'>
                 <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='5250' id='14' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2834,8 +2834,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='38' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='37' param='vert' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='40' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='39' param='vert' w='84000' x='8000' y='8000'>
                 <zone fixed-size='280' h='98000' id='14' is-fixed='true' name='Releases + annual increases/decreases' w='82400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2902,8 +2902,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='22' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='21' param='vert' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='24' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='23' param='vert' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='8' is-fixed='true' name='duration avg per year' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -2993,8 +2993,8 @@
           </layout-options>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='15' w='100000' x='0' y='0'>
-              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='98000' id='14' param='vert' w='98400' x='800' y='1000'>
+            <zone _.fcp.SetMembershipControl.false...type='layout-basic' _.fcp.SetMembershipControl.true...type-v2='layout-basic' h='100000' id='17' w='100000' x='0' y='0'>
+              <zone _.fcp.SetMembershipControl.false...type='layout-flow' _.fcp.SetMembershipControl.true...type-v2='layout-flow' h='84000' id='16' param='vert' w='84000' x='8000' y='8000'>
                 <zone _.fcp.SetMembershipControl.false...type='title' _.fcp.SetMembershipControl.true...type-v2='title' h='5250' id='11' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3147,7 +3147,7 @@
       </viewpoint>
       <simple-id uuid='{FCC4428C-C2E0-4930-A9F1-29DA625C93A5}' />
     </window>
-    <window class='worksheet' name='Releases + annual increases/decreases'>
+    <window class='worksheet' maximized='true' name='Releases + annual increases/decreases'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -3303,7 +3303,7 @@
           </highlight>
         </viewpoint>
       </viewpoints>
-      <active id='11' />
+      <active id='-1' />
       <simple-id uuid='{1941037A-DD4E-4F29-8C86-45F2483750A7}' />
     </window>
     <window class='dashboard' name='Cnt mvs + tvs'>
@@ -3320,7 +3320,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{C64D897F-5510-4D52-A3E7-B13B05621D92}' />
     </window>
     <window class='dashboard' name='Count of movies and tv shows 2'>
@@ -3329,10 +3329,10 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='14' />
+      <active id='-1' />
       <simple-id uuid='{BC8A1AA8-5EAC-4EA2-B71A-AF26922F39B1}' />
     </window>
-    <window class='dashboard' maximized='true' name='Duration analysis 2000-2019'>
+    <window class='dashboard' name='Duration analysis 2000-2019'>
       <viewpoints>
         <viewpoint name='duration avg per year'>
           <zoom type='entire-view' />
@@ -4161,95 +4161,17 @@
     </thumbnail>
     <thumbnail height='192' name='Duration analysis 2000-2019' width='192'>
       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
-      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
+      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
+      6AMYOHnk0QAAAABJRU5ErkJggg==
     </thumbnail>
     <thumbnail height='192' name='Rel + ann. incr/decr' width='192'>
       iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
