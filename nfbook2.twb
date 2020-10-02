@@ -24,7 +24,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='nf_cropped' name='textscan.0srar841lapyjs1gcu0wc0gxtagb'>
-            <connection class='textclean' cleaning='yes' compat='no' csvFile='/Users/finn/Desktop/netflixDS/nf_cropped.csv' dataRefreshTime='' directory='/Users/finn/Desktop/netflixDS' filename='/var/folders/vn/jq2yvfvs3p163238ghxmkw500000gn/T/tableau-temp/0a09eqo07pbd3e1gu2cz31tbxcik/nf_cropped.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
+            <connection class='textclean' cleaning='yes' compat='no' csvFile='/Users/finn/Desktop/netflixDS/nf_cropped.csv' dataRefreshTime='' directory='/Users/finn/Desktop/netflixDS' filename='/var/folders/vn/jq2yvfvs3p163238ghxmkw500000gn/T/tableau-temp/09iidn70uhhdla10t6mel1rwv2rh/nf_cropped.csv.xlsx' interpretationMode='8' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0srar841lapyjs1gcu0wc0gxtagb' name='nf_cropped.csv' table='[nf_cropped#csv$]' type='table'>
