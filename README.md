@@ -1,5 +1,6 @@
-**Dataanalysis-Netflix**
+#Dataanalysis-Netflix
 
+**3. Final dashboards and presentation: Data Analysis - Movies and TV-Shows.pdf**
 Datasource: netflix_titles.csv from https://www.kaggle.com/shivamb/netflix-shows
 1. Preperation for using the data:
    - Netflix_shorten.ipynb
@@ -12,4 +13,4 @@ Datasource: netflix_titles.csv from https://www.kaggle.com/shivamb/netflix-shows
    - NetflixWorkbook.twb
    - nfbook2.twb
 
-**3. Final dashboards and presentation: Data Analysis - Movies and TV-Shows.pdf**
+3. Final dashboards and presentation to be found at: Data Analysis - Movies and TV-Shows.pdf
